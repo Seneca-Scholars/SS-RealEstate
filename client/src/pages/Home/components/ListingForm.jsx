@@ -153,7 +153,7 @@ export const ListingForm = () => {
         </div>
         <button type="submit">{isEditing ? "Update Listing" : "Submit"}</button>
       </form>
-
+      {/* Display the list of created listings */}
       {/* Display the list of created listings */}
       <div>
         <h2>Listings</h2>
